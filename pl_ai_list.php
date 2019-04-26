@@ -1,6 +1,5 @@
 <?php
-/*
-   Plugin Name: Rooster Radio
+/* Plugin Name: PL_AI_LIST
    Plugin URI: http://riddex.me.uk
    description: Connector for pl_ai_list chatbot
    Version: 0.1.0
