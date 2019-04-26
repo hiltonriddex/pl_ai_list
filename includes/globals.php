@@ -24,11 +24,3 @@ define('SPOTIFY_CLIENT_ID', "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
 define('SPOTIFY_SECRET', "xxxxxxxxxxxxxxxxxxxxxxxxxxx");
 define('SPOTIFY_ACCESS_URL', "https://accounts.spotify.com/api/token");
 //.......
-
-//CHATBOT
-define('CHATBOT_USER_DAY_RECONNECT', 4);
-define('ALLOW_PLAYLIST_A_DAY_PROMPTS', true);
-define('ALLOW_PLAYLIST_A_DAY_MODE', "app"); //options are {app, chatbot}
-define('ALLOW_CHATBOT_INITIATED_CHAT', true);
-define('CHATBOT_FALLBACK_IMAGE', " ");
-//......
